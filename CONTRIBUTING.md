@@ -40,7 +40,3 @@ Update the documentation if your changes impact user-facing features or develope
 ## Issues and Discussions
 
 If you have questions or want to discuss your contribution before opening a pull request, please open an issue or participate in existing discussions.
-
-## Code of Conduct
-
-Please adhere to the [Code of Conduct](). Be respectful and considerate in all interactions.
