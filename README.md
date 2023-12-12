@@ -19,10 +19,6 @@ We have some exciting plans for the future of this QR Code Generator. Here are s
 
 Feel free to [contribute](CONTRIBUTING.md) to the project and help shape its future!
 
-## Changelog
-
-Check out the [changelog](CHANGELOG.md) to see the latest updates and improvements.
-
 ## Dependencies
 
 - [tkinter](https://docs.python.org/3/library/tkinter.html) - Python's standard GUI package.
