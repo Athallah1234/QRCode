@@ -52,7 +52,7 @@ Feel free to [contribute](CONTRIBUTING.md) to the project and help shape its fut
 
 ## Contributing
 
-If you'd like to contribute to the project, please follow the [contributing guidelines]().
+If you'd like to contribute to the project, please follow the [contributing guidelines](CONTRIBUTING.md).
 
 ## Frequently Asked Questions (FAQ)
 
@@ -66,10 +66,6 @@ A: You can [open an issue](https://github.com/Athallah1234/qr-code-generator/iss
 
 - Thanks to the contributors who have helped improve this project.
 - Icon made by [Freepik](https://www.freepik.com) from [www.flaticon.com](https://www.flaticon.com/).
-
-## Code of Conduct
-
-Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms.
 
 ## Contact
 
